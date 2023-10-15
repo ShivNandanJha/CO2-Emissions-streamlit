@@ -1,0 +1,182 @@
+Sr No.,ISO3,Country,Continent,Hemisphere,1990,1995,2000,2005,2010,2013,2018,Total CO2 Emissions
+0,AFG,Afghanistan,Asia,Northern Hemisphere,1.24,0.84,0.82,0.76,1.06,1.4,2.66,8.780000000000001
+1,ALB,Albania,Europe,Northern Hemisphere,3.56,2.15,2.36,2.68,2.83,2.85,3.52,19.95
+2,DZA,Algeria,Africa,Northern Hemisphere,3.5,3.42,3.75,4.04,4.58,4.88,5.18,29.349999999999998
+3,AGO,Angola,Africa,Southern Hemisphere,4.29,4.43,4.2,5.06,6.32,5.99,2.59,32.879999999999995
+4,ATG,Antigua and Barbuda,America,Northern Hemisphere,6.31,6.53,7.08,8.77,10.69,11.22,12.59,63.19
+5,ARG,Argentina,America,Southern Hemisphere,7.12,7.25,7.49,7.73,7.77,7.86,8.22,53.44
+6,ARM,Armenia,Asia,Northern Hemisphere,6.556168831168831,1.94,1.82,2.3,2.46,2.97,3.17,21.21616883116883
+7,AUS,Australia,Australia,Southern Hemisphere,28.06,27.28,30.84,27.6,25.39,25.06,24.63,188.86
+8,AUT,Austria,Europe,Northern Hemisphere,9.71,9.55,9.59,10.79,9.85,9.15,8.48,67.12
+9,AZE,Azerbaijan,Asia,Northern Hemisphere,6.556168831168831,7.5,6.79,6.61,6.36,7.43,8.07,49.31616883116883
+10,BHS,Bahamas,America,Northern Hemisphere,8.31,6.69,6.32,6.03,7.58,9.04,6.85,50.82
+11,BHR,Bahrain,Asia,Northern Hemisphere,27.27,29.64,29.19,27.78,24.4,25.4,31.19,194.87
+12,BGD,Bangladesh,Asia,Northern Hemisphere,0.8,0.81,0.81,0.85,1.0,1.04,1.23,6.539999999999999
+13,BRB,Barbados,America,Northern Hemisphere,11.01,10.38,11.69,12.17,12.64,12.53,13.22,83.64
+14,BLR,Belarus,Europe,Northern Hemisphere,6.556168831168831,8.23,7.84,8.63,9.66,9.55,9.29,59.75616883116883
+15,BEL,Belgium,Europe,Northern Hemisphere,6.556168831168831,,13.26,12.16,11.44,10.17,9.52,63.10616883116883
+16,BLZ,Belize,America,Northern Hemisphere,29.05,29.84,28.55,28.11,28.29,28.15,4.08,176.07000000000002
+17,BEN,Benin,Africa,Northern Hemisphere,1.01,0.88,1.01,1.16,1.21,1.22,1.51,8.0
+18,BTN,Bhutan,Asia,Northern Hemisphere,1.36,1.68,1.72,1.55,1.46,1.91,3.27,12.95
+19,BOL,Bolivia,America,Southern Hemisphere,3.04,3.49,3.38,3.78,4.38,4.5,5.01,27.58
+20,BIH,Bosnia and Herzegovina,Europe,Northern Hemisphere,6.556168831168831,1.81,5.34,6.0,7.36,7.89,8.18,43.13616883116883
+21,BWA,Botswana,Africa,Southern Hemisphere,9.12,8.45,8.25,5.58,9.32,6.07,7.15,53.94
+22,BRA,Brazil,America,Southern Hemisphere,3.73,3.92,4.12,4.43,4.73,5.03,4.93,30.89
+23,BRN,Brunei,Asia,Northern Hemisphere,48.33,46.38,46.49,44.83,46.88,46.84,38.75,318.5
+24,BGR,Bulgaria,Europe,Northern Hemisphere,11.24,8.28,7.16,8.03,8.0,7.55,7.59,57.849999999999994
+25,BFA,Burkina Faso,Africa,Northern Hemisphere,1.25,1.29,1.27,1.42,1.38,1.38,1.56,9.55
+26,BDI,Burundi,Africa,Southern Hemisphere,0.42,0.42,0.35,0.26,0.29,0.32,0.49,2.55
+27,KHM,Cambodia,Asia,Northern Hemisphere,1.74,1.67,1.49,1.63,1.83,1.8,2.31,12.47
+28,CMR,Cameroon,Africa,Northern Hemisphere,6.43,5.91,5.4,4.77,4.13,3.85,3.53,34.02
+29,CAN,Canada,America,Northern Hemisphere,20.22,20.69,22.12,21.94,20.47,20.94,19.56,145.94
+30,CPV,Cape Verde,Africa,Northern Hemisphere,0.63,0.73,0.79,1.1,1.43,1.15,1.52,7.35
+31,CAF,Central African Republic,Africa,Northern Hemisphere,12.21,11.98,11.8,11.28,10.78,10.94,11.93,80.92000000000002
+32,TCD,Chad,Africa,Northern Hemisphere,2.6,2.37,2.43,2.87,2.28,2.17,5.21,19.93
+33,CHL,Chile,America,Southern Hemisphere,3.53,3.95,4.47,4.69,5.35,5.93,5.85,33.77
+34,CHN,China,Asia,Northern Hemisphere,2.69,3.39,3.49,5.5,7.43,8.49,8.87,39.86
+35,COL,Colombia,America,Northern Hemisphere,3.4,3.5,3.27,3.21,3.3,3.37,3.71,23.76
+36,COM,Comoros,Africa,Southern Hemisphere,0.56,0.53,0.52,0.47,0.5,0.54,0.71,3.83
+37,CRI,Costa Rica,America,Northern Hemisphere,2.68,2.77,2.52,2.71,2.83,2.93,3.16,19.6
+38,HRV,Croatia,Europe,Northern Hemisphere,6.556168831168831,4.64,5.41,6.4,5.99,5.49,5.52,40.006168831168836
+39,CUB,Cuba,America,Northern Hemisphere,5.02,3.43,3.89,3.54,4.33,4.08,3.69,27.98
+40,CYP,Cyprus,Asia,Northern Hemisphere,6.59,7.3,8.19,8.53,7.92,6.06,7.23,51.82000000000001
+41,CZE,Czech Republic,Europe,Northern Hemisphere,6.556168831168831,14.05,13.76,13.47,12.39,11.42,11.56,83.20616883116882
+42,DNK,Denmark,Europe,Northern Hemisphere,12.97,14.24,12.48,11.59,11.03,9.38,7.92,79.61
+43,DJI,Djibouti,Africa,Northern Hemisphere,1.52,1.52,1.51,1.49,1.51,1.55,1.55,10.65
+44,DMA,Dominica,America,Northern Hemisphere,2.44,2.66,3.01,3.13,3.45,3.33,3.39,21.409999999999997
+45,DOM,Dominican Republic,America,Northern Hemisphere,2.12,2.63,3.21,3.03,3.28,3.23,3.68,21.18
+46,ECU,Ecuador,America,Southern Hemisphere,2.85,3.12,2.89,3.21,3.6,3.72,3.84,23.23
+47,EGY,Egypt,Africa,Northern Hemisphere,2.15,2.13,2.41,2.96,3.18,3.03,3.34,19.199999999999996
+48,SLV,El Salvador,America,Northern Hemisphere,1.28,1.68,1.76,2.02,1.96,1.85,1.92,12.469999999999999
+49,GNQ,Equatorial Guinea,Africa,Northern Hemisphere,0.52,2.7,13.89,25.83,21.33,19.15,14.72,98.13999999999999
+50,ERI,Eritrea,Africa,Northern Hemisphere,6.556168831168831,1.96,1.95,1.63,1.44,1.44,,14.976168831168827
+51,EST,Estonia,Europe,Northern Hemisphere,6.556168831168831,14.4,13.53,15.77,17.3,17.66,14.07,99.28616883116882
+52,SWZ,Eswatini,Africa,Southern Hemisphere,2.31,2.07,2.63,2.39,2.3,2.25,2.75,16.7
+53,ETH,Ethiopia,Africa,Northern Hemisphere,6.556168831168831,1.11,1.09,1.16,1.31,1.3,1.58,14.106168831168834
+54,FJI,Fiji,Australia,Southern Hemisphere,2.38,2.53,2.32,2.9,3.04,3.13,3.2,19.5
+55,FIN,Finland,Europe,Northern Hemisphere,14.75,14.62,13.9,13.26,14.2,11.69,9.88,92.29999999999998
+56,FRA,France,Europe,Northern Hemisphere,8.65,8.39,8.37,8.13,7.34,6.9,6.32,54.099999999999994
+57,GAB,Gabon,Africa,Southern Hemisphere,6.99,6.67,4.77,4.21,3.74,4.05,3.52,33.95
+58,GMB,Gambia,Africa,Northern Hemisphere,4.08,4.13,4.14,4.13,4.26,4.02,1.22,25.98
+59,GEO,Georgia,Asia,Northern Hemisphere,6.556168831168831,2.88,2.78,2.61,2.91,3.66,4.54,25.936168831168832
+60,DEU,Germany,Europe,Northern Hemisphere,14.59,12.9,11.89,11.36,11.03,11.0,9.72,82.49000000000001
+61,GHA,Ghana,Africa,Northern Hemisphere,0.85,0.85,0.96,1.03,1.04,1.17,1.49,7.390000000000001
+62,GRC,Greece,Europe,Northern Hemisphere,9.39,9.71,10.53,10.73,9.0,7.68,7.9,64.94
+63,GRD,Grenada,America,Northern Hemisphere,16.29,16.63,17.28,17.82,18.39,18.89,21.14,126.44000000000001
+64,GTM,Guatemala,America,Northern Hemisphere,1.23,1.41,1.63,1.71,1.64,1.71,2.17,11.499999999999998
+65,GIN,Guinea,Africa,Northern Hemisphere,1.25,1.19,1.21,1.27,1.41,1.43,2.33,10.09
+66,GNB,Guinea-Bissau,Africa,Northern Hemisphere,1.22,1.18,1.13,1.04,1.18,1.17,1.49,8.41
+67,GUY,Guyana,America,Northern Hemisphere,3.29,4.37,4.4,4.11,4.79,5.35,6.46,32.77
+68,HTI,Haiti,America,Northern Hemisphere,0.66,0.65,0.76,0.81,0.78,0.77,0.89,5.319999999999999
+69,HND,Honduras,America,Northern Hemisphere,2.12,2.15,2.13,2.49,2.36,2.44,2.34,16.03
+70,HUN,Hungary,Europe,Northern Hemisphere,8.5,7.05,7.02,7.28,6.36,5.78,6.23,48.22
+71,ISL,Iceland,Europe,Northern Hemisphere,12.06,10.27,11.15,10.43,8.9,8.96,9.74,71.50999999999999
+72,IND,India,Asia,Northern Hemisphere,1.37,1.48,1.59,1.72,2.11,2.28,2.5,13.049999999999999
+73,IDN,Indonesia,Asia,Southern Hemisphere,2.1,2.43,2.55,2.69,2.87,2.95,3.62,19.21
+74,IRN,Iran,Asia,Northern Hemisphere,4.46,5.9,6.69,8.08,9.03,9.26,10.13,53.550000000000004
+75,IRQ,Iraq,Asia,Northern Hemisphere,8.92,6.48,7.87,6.42,7.52,8.4,5.61,51.21999999999999
+76,IRL,Ireland,Europe,Northern Hemisphere,15.04,15.76,17.39,16.77,13.57,12.65,13.37,104.55000000000001
+77,ISR,Israel,Asia,Northern Hemisphere,9.4,10.9,11.82,11.34,11.74,11.46,9.89,76.55000000000001
+78,ITA,Italy,Europe,Northern Hemisphere,8.6,8.69,9.17,9.49,8.02,7.05,6.61,57.629999999999995
+79,CIV,Ivory Coast,Africa,Northern Hemisphere,1.91,1.84,1.44,1.44,1.37,1.46,0.91,10.37
+80,JAM,Jamaica,America,Northern Hemisphere,3.67,4.04,4.4,4.53,3.17,3.33,3.41,26.55
+81,JPN,Japan,Asia,Northern Hemisphere,9.4,9.91,10.04,10.16,9.54,10.55,9.38,68.98
+82,JOR,Jordan,Asia,Northern Hemisphere,4.87,4.85,3.82,4.28,3.66,3.66,3.6,28.740000000000002
+83,KAZ,Kazakhstan,Asia,Northern Hemisphere,6.556168831168831,14.43,10.37,13.73,17.28,18.23,15.0,95.59616883116884
+84,KEN,Kenya,Africa,Northern Hemisphere,1.54,1.29,1.14,1.13,1.41,1.34,1.53,9.379999999999999
+85,KIR,Kiribati,Australia,Northern Hemisphere,0.49,0.47,0.59,0.88,0.81,0.77,0.95,4.96
+86,KWT,Kuwait,Asia,Northern Hemisphere,37.32,73.13,65.64,76.41,62.47,54.41,27.31,396.69
+87,KGZ,Kyrgyzstan,Asia,Northern Hemisphere,6.556168831168831,2.06,1.85,1.97,2.16,2.73,2.87,20.196168831168833
+88,LAO,Laos,Asia,Northern Hemisphere,1.44,1.41,1.44,1.54,1.66,1.77,4.14,13.399999999999999
+89,LVA,Latvia,Europe,Northern Hemisphere,6.556168831168831,5.43,4.66,5.47,6.29,6.2,6.05,40.65616883116883
+90,LBN,Lebanon,Asia,Northern Hemisphere,2.75,5.39,5.53,4.86,5.5,5.11,5.02,34.16
+91,LSO,Lesotho,Africa,Southern Hemisphere,1.18,1.11,1.16,1.74,2.04,1.99,2.77,11.99
+92,LBR,Liberia,Africa,Northern Hemisphere,0.57,0.45,0.41,0.48,0.48,0.5,1.91,4.8
+93,LBY,Libya,Africa,Northern Hemisphere,21.16,19.43,18.66,20.91,22.63,21.47,15.43,139.69
+94,LTU,Lithuania,Europe,Northern Hemisphere,6.556168831168831,6.07,5.55,6.51,6.65,6.45,6.73,44.51616883116883
+95,LUX,Luxembourg,Europe,Northern Hemisphere,6.556168831168831,,21.14,27.86,23.82,20.72,16.81,116.90616883116883
+96,MDG,Madagascar,Africa,Southern Hemisphere,1.99,1.77,1.53,1.36,1.24,1.15,1.16,10.200000000000001
+97,MWI,Malawi,Africa,Southern Hemisphere,0.95,0.64,0.58,0.53,0.59,0.61,1.01,4.91
+98,MYS,Malaysia,Asia,Northern Hemisphere,5.72,6.79,7.91,9.33,9.94,10.2,9.73,59.620000000000005
+99,MDV,Maldives,Asia,Northern Hemisphere,0.84,1.19,1.83,2.1,2.69,2.86,4.61,16.12
+100,MLI,Mali,Africa,Northern Hemisphere,1.81,1.67,1.72,1.79,1.82,1.77,2.29,12.870000000000001
+101,MLT,Malta,Europe,Northern Hemisphere,7.0,7.01,6.24,7.77,7.48,7.04,4.2,46.74
+102,MRT,Mauritania,Africa,Northern Hemisphere,3.08,2.81,3.06,2.94,2.9,2.84,3.2,20.830000000000002
+103,MUS,Mauritius,Africa,Southern Hemisphere,2.02,2.29,3.31,3.71,4.33,4.52,5.33,25.509999999999998
+104,MEX,Mexico,America,Northern Hemisphere,5.0,5.1,5.74,6.28,6.19,5.98,5.39,39.68000000000001
+105,MDA,Moldova,Europe,Northern Hemisphere,6.556168831168831,4.12,2.6,2.91,3.02,2.82,4.87,26.89616883116883
+106,MNG,Mongolia,Asia,Northern Hemisphere,12.81,11.28,11.48,10.13,10.91,13.47,16.6,86.68
+107,MNE,Montenegro,Europe,Northern Hemisphere,6.556168831168831,,,,5.81,5.4,6.11,23.876168831168833
+108,MAR,Morocco,Africa,Northern Hemisphere,1.53,1.64,1.76,2.07,2.23,2.33,2.62,14.18
+109,MOZ,Mozambique,Africa,Southern Hemisphere,1.38,1.23,1.03,1.09,1.09,1.04,1.19,8.049999999999999
+110,MMR,Myanmar,Asia,Northern Hemisphere,1.37,1.52,1.6,1.78,1.84,1.92,2.23,12.260000000000002
+111,NAM,Namibia,Africa,Southern Hemisphere,5.17,5.41,5.31,5.05,5.21,4.87,4.87,35.89
+112,NRU,Nauru,Australia,Southern Hemisphere,14.23,11.02,8.86,6.71,4.94,4.53,6.03,56.32
+113,NPL,Nepal,Asia,Northern Hemisphere,1.07,1.11,1.16,1.12,1.22,1.29,1.82,8.79
+114,NLD,Netherlands,Europe,Northern Hemisphere,13.18,13.93,12.85,12.4,12.01,11.09,10.37,85.83000000000001
+115,NZL,New Zealand,Australia,Southern Hemisphere,19.01,18.27,18.4,18.77,16.86,16.62,16.6,124.53
+116,NIC,Nicaragua,America,Northern Hemisphere,2.26,1.94,2.33,2.43,2.42,2.37,2.95,16.7
+117,NER,Niger,Africa,Northern Hemisphere,1.35,1.4,1.43,1.44,1.49,1.44,2.01,10.559999999999999
+118,NGA,Nigeria,Africa,Northern Hemisphere,2.11,2.04,1.94,2.05,1.79,1.77,1.59,13.29
+119,PRK,North Korea,Asia,Northern Hemisphere,7.68,4.92,4.12,4.27,3.83,2.55,1.64,29.01
+120,NOR,Norway,Europe,Northern Hemisphere,10.69,10.59,10.48,10.41,10.09,9.18,8.91,70.35000000000001
+121,OMN,Oman,Asia,Northern Hemisphere,22.0,22.92,27.97,25.84,27.82,27.43,17.04,171.02
+122,PAK,Pakistan,Asia,Northern Hemisphere,1.43,1.54,1.6,1.72,1.8,1.8,2.03,11.92
+123,PLW,Palau,Australia,Northern Hemisphere,6.556168831168831,6.98,6.74,10.3,11.64,17.03,17.93,77.17616883116884
+124,PAN,Panama,America,Northern Hemisphere,2.93,3.37,3.37,3.83,4.24,4.45,4.31,26.5
+125,PNG,Papua New Guinea,Australia,Southern Hemisphere,2.09,2.68,2.31,2.22,2.08,2.16,2.67,16.21
+126,PRY,Paraguay,America,Southern Hemisphere,5.25,5.71,5.08,4.92,5.56,5.81,7.07,39.4
+127,PER,Peru,America,Southern Hemisphere,1.94,2.07,2.27,2.34,2.77,2.82,3.01,17.22
+128,PHL,Philippines,Asia,Northern Hemisphere,1.45,1.68,1.73,1.67,1.65,1.74,2.18,12.1
+129,POL,Poland,Europe,Northern Hemisphere,11.23,10.7,9.4,9.6,9.82,9.43,10.26,70.44
+130,PRT,Portugal,Europe,Northern Hemisphere,5.67,6.61,7.6,7.76,6.14,5.89,6.5,46.17
+131,QAT,Qatar,Asia,Northern Hemisphere,29.75,37.3,41.58,52.1,39.13,36.82,35.89,272.57
+132,COG,Republic of the Congo,Africa,Southern Hemisphere,1.07,1.69,1.41,1.88,1.67,1.46,1.79,10.969999999999999
+133,ROU,Romania,Europe,Northern Hemisphere,10.12,7.31,5.84,6.29,5.67,5.46,5.6,46.29
+134,RUS,Russia,Europe,Northern Hemisphere,6.556168831168831,14.45,13.92,14.7,15.21,15.31,17.6,97.74616883116883
+135,RWA,Rwanda,Africa,Southern Hemisphere,0.52,0.63,0.54,0.56,0.61,0.6,0.5,3.96
+136,KNA,Saint Kitts and Nevis,America,Northern Hemisphere,4.77,5.47,5.95,6.57,7.01,8.04,7.03,44.839999999999996
+137,LCA,Saint Lucia,America,Northern Hemisphere,5.74,6.85,6.5,6.5,6.5,6.44,4.05,42.58
+138,VCT,Saint Vincent and the Grenadines,America,Northern Hemisphere,1.41,1.9,2.09,2.64,2.65,2.53,3.32,16.54
+139,WSM,Samoa,Australia,Southern Hemisphere,2.17,2.13,2.28,2.39,2.54,2.67,3.52,17.700000000000003
+140,STP,São Tomé and Príncipe,Africa,Northern Hemisphere,0.83,0.85,0.77,0.9,0.96,1.01,0.92,6.24
+141,SAU,Saudi Arabia,Asia,Northern Hemisphere,11.49,13.29,13.39,14.67,17.69,18.26,18.94,107.73
+142,SEN,Senegal,Africa,Northern Hemisphere,1.75,1.69,1.84,1.88,1.89,1.8,1.89,12.740000000000002
+143,SRB,Serbia,Europe,Northern Hemisphere,6.556168831168831,,,,6.54,6.62,8.96,28.676168831168834
+144,SYC,Seychelles,Africa,Southern Hemisphere,2.94,3.38,7.86,8.45,8.28,7.65,8.02,46.58
+145,SLE,Sierra Leone,Africa,Northern Hemisphere,0.89,0.87,0.73,0.8,0.83,0.97,0.94,6.029999999999999
+146,SGP,Singapore,Asia,Northern Hemisphere,10.28,11.82,11.88,9.48,9.84,9.88,11.82,75.00000000000001
+147,SVK,Slovakia,Europe,Northern Hemisphere,6.556168831168831,9.36,8.48,8.68,7.9,7.43,7.33,55.736168831168825
+148,SVN,Slovenia,Europe,Northern Hemisphere,6.556168831168831,8.92,9.01,9.67,9.3,8.72,8.28,60.45616883116884
+149,SLB,Solomon Islands,Australia,Southern Hemisphere,1.11,1.03,0.99,0.98,1.01,0.99,1.44,7.549999999999999
+150,ZAF,South Africa,Africa,Southern Hemisphere,8.18,7.77,7.71,9.23,9.5,9.49,8.88,60.760000000000005
+151,KOR,South Korea,Asia,Northern Hemisphere,6.77,9.45,10.77,11.24,13.02,13.43,13.93,78.61000000000001
+152,ESP,Spain,Europe,Northern Hemisphere,6.91,7.54,8.99,9.62,7.27,6.57,6.99,53.89
+153,LKA,Sri Lanka,Asia,Northern Hemisphere,1.3,1.38,1.64,1.8,1.79,1.87,1.63,11.41
+154,SDN,Sudan,Africa,Northern Hemisphere,3.83,3.9,4.38,4.57,4.27,,2.62,23.57
+155,SUR,Suriname,America,Northern Hemisphere,7.27,7.75,5.67,5.63,5.9,6.18,6.57,44.97
+156,SWE,Sweden,Europe,Northern Hemisphere,7.9,8.18,7.53,7.0,6.25,5.29,4.56,46.71
+157,CHE,Switzerland,Europe,Northern Hemisphere,7.77,7.33,7.16,7.21,6.77,6.34,5.41,47.989999999999995
+158,SYR,Syria,Asia,Northern Hemisphere,4.35,4.64,4.46,4.87,4.31,3.32,2.74,28.689999999999998
+159,TJK,Tajikistan,Asia,Northern Hemisphere,6.556168831168831,1.28,0.98,1.04,1.1,1.25,1.67,13.87616883116883
+160,TZA,Tanzania,Africa,Southern Hemisphere,1.64,1.56,1.39,1.55,1.46,1.54,1.87,11.010000000000002
+161,THA,Thailand,Asia,Northern Hemisphere,2.69,3.8,3.85,4.67,5.1,5.42,6.01,31.54
+162,TGO,Togo,Africa,Northern Hemisphere,0.93,0.75,0.94,0.97,1.01,0.93,1.07,6.6
+163,TON,Tonga,Australia,Southern Hemisphere,2.4,2.56,2.62,2.85,3.07,3.92,3.36,20.78
+164,TTO,Trinidad and Tobago,America,Northern Hemisphere,12.31,11.22,12.42,16.4,19.11,19.15,16.48,107.09000000000002
+165,TUN,Tunisia,Africa,Northern Hemisphere,2.36,2.52,2.89,3.04,3.36,3.24,3.55,20.959999999999997
+166,TUR,Turkey,Asia,Northern Hemisphere,3.71,4.18,4.8,4.66,5.18,5.39,6.1,34.02
+167,TKM,Turkmenistan,Asia,Northern Hemisphere,6.556168831168831,13.39,14.51,18.13,19.44,20.93,21.38,114.33616883116883
+168,UGA,Uganda,Africa,Northern Hemisphere,0.82,0.78,0.73,0.8,0.92,0.89,1.28,6.22
+169,UKR,Ukraine,Europe,Northern Hemisphere,6.556168831168831,10.41,8.25,8.54,8.13,8.33,6.15,56.36616883116883
+170,ARE,United Arab Emirates,Asia,Northern Hemisphere,40.13,38.81,34.89,32.13,23.73,24.59,27.33,221.61
+171,GBR,United Kingdom,Europe,Northern Hemisphere,12.9,11.63,11.0,10.53,9.03,8.45,6.8,70.34
+172,USA,United States,America,Northern Hemisphere,23.23,23.26,23.86,22.92,20.97,19.9,18.44,152.57999999999998
+173,URY,Uruguay,America,Southern Hemisphere,8.38,9.15,8.83,9.6,9.71,9.98,10.48,66.13000000000001
+174,UZB,Uzbekistan,Asia,Northern Hemisphere,6.556168831168831,7.9,8.4,7.85,7.55,7.52,7.15,52.92616883116883
+175,VUT,Vanuatu,Australia,Southern Hemisphere,3.04,3.07,2.85,2.5,2.79,2.66,2.96,19.87
+176,VEN,Venezuela,America,Northern Hemisphere,8.62,8.73,8.7,8.85,9.08,8.85,8.1,60.93
+177,VNM,Vietnam,Asia,Northern Hemisphere,1.03,1.25,1.63,2.16,2.8,2.81,3.94,15.620000000000001
+178,YEM,Yemen,Asia,Northern Hemisphere,0.99,1.0,1.15,1.33,1.41,1.39,0.76,8.03
+179,ZMB,Zambia,Africa,Southern Hemisphere,5.18,4.2,3.36,3.58,3.31,3.31,2.34,25.279999999999998
+180,ZWE,Zimbabwe,Africa,Southern Hemisphere,3.25,2.62,2.47,1.93,1.81,1.82,2.17,16.07
